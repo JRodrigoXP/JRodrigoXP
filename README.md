@@ -20,15 +20,15 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <div align="center">
-<a href="https://github.com/RodrigoXP69">
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=RodrigoXP69&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="max-width:100%;"><img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RodrigoXP69&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="max-width:100%;">
+<a href="https://github.com/">
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=JRodrigoXP&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="max-width:100%;"><img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JRodrigoXP&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="max-width:100%;">
 </a>
 </div>
 
 <h2 align="center">🔥 Contribution Streak:</h2>
 <div align="center">
-<a href="https://github.com/RodrigoXP69">
-<img height="160em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=RodrigoXP69&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="max-width:100%;">
+<a href="https://github.com/JRodrigoXP">
+<img height="160em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=JRodrigoXP&theme=dark&hide_border=true&include_all_commits=true&count_private=true" style="max-width:100%;">
 </a>
 </div>
 
